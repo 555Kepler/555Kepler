@@ -45,8 +45,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
-<br>
+![Gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdmM3k3a3NtMjFjaGQwZ3lnem81ZTh6a2xoaHhrZm9qcjI3YWZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NAdEYIRFMCBhMGkXSq/giphy.gif)
 
 
 
