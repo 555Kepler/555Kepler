@@ -2,7 +2,7 @@
     <img width="200" src="https://i.pinimg.com/236x/a2/78/c7/a278c75f5bf8b8050d0703219fbbdff8.jpg">
 </p>
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < Developers/ >! </h1>
 <p align='center'>
 </p>
 
@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -34,7 +34,9 @@
 <a href="https://www.instagram.com/555.kep/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/528469852193685515" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
-![Gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdmM3k3a3NtMjFjaGQwZ3lnem81ZTh6a2xoaHhrZm9qcjI3YWZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NAdEYIRFMCBhMGkXSq/giphy.gif)
+<h2>  </h2>
+
+![Gato](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cmo2YTE3Yzl2dXV5MnJxbzN1M3B0bzl2cHk2enNvYzBoa202ZnN4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTqW49vw8TtSa6WYgs/giphy.gif)
 
 
 
