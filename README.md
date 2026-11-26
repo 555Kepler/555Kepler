@@ -33,19 +33,12 @@
 <a href = 'https://github.com/555Kepler'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.instagram.com/555.kep/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/528469852193685515" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-<br>
-<br>
-  <br>
-  
-
-| ![Claudia's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Claudia GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ![Gato](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdmM3k3a3NtMjFjaGQwZ3lnem81ZTh6a2xoaHhrZm9qcjI3YWZtNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NAdEYIRFMCBhMGkXSq/giphy.gif)
+
+
+
+
 
 
 
